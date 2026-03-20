@@ -1,0 +1,26 @@
+FIRE STRATEGY REPORT
+
+BUILDING OVERVIEW
+Proposed block of flats with a single stair and common corridor arrangement.
+Top storey height is 6 m above ground level.
+
+MEANS OF ESCAPE
+Common corridor travel distance is 10 m.
+Common escape route travel distance is 12 m.
+Lobby travel distance is 5.2 m.
+No sprinklers are proposed.
+
+FIREFIGHTING ACCESS
+Protected shaft is provided.
+Occupant load is 20.
+Private hydrants are provided.
+Fire mains are provided.
+Distance to nearest public hydrant is 150 m.
+
+FACADE
+The facade includes a spandrel zone.
+Spandrel height is 700 mm.
+Minimum required spandrel height is 900 mm.
+
+COMPARTMENTATION
+Largest compartment area is 500 m2.
