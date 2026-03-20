@@ -719,6 +719,20 @@ export async function GET(req: NextRequest) {
 
     doc.fillColor(COLORS.muted).font("R").fontSize(10);
     doc.text(`Completeness score: ${completeness_score}/100`);
+    doc.moveDown(0.3);
+    resetCursor(doc);
+    doc
+      .fillColor(COLORS.muted)
+      .font("R")
+      .fontSize(9)
+      .text(
+        "Results are based on provided inputs; missing or incomplete data may lead to UNKNOWN classifications requiring further review.",
+        {
+          width:
+            doc.page.width - doc.page.margins.left - doc.page.margins.right,
+          lineGap: 2,
+        }
+      );
     doc.moveDown(0.7);
 
     const chartY = doc.y;
